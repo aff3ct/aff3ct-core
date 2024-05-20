@@ -1,3 +1,5 @@
+**This repository is now deprecated, `AFF3CT-core` has been renamed in `StreamPU` and moved here: https://github.com/aff3ct/streampu/.**
+
 # AFF3CT-core
 
 This project contains the core features of AFF3CT:
